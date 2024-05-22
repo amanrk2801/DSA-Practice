@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4dde75bb-94b2-4d5c-82d6-021f075dad3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/AnagramChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/IsomorphicStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/LargestOddNumberInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/PangramChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/RemoveOutermostParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/ReverseWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/StringRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/ArraySortChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumbersDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNumbersInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/StringReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,28 +48,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AnagramChecker.executor": "Run",
+    "Application.ArraySortChecker.executor": "Run",
+    "Application.ClimbingStairs.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
     "Application.IsomorphicStrings.executor": "Run",
     "Application.LargestOddNumberInString.executor": "Run",
     "Application.LongestPalindromicSubstring.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
     "Application.PangramChecker.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.PrintNumbers.executor": "Run",
+    "Application.PrintNumbersDec.executor": "Run",
     "Application.RemoveOutermostParentheses.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.ReverseWordsInString.executor": "Run",
     "Application.StringCompression.executor": "Run",
+    "Application.StringReverse.executor": "Run",
     "Application.StringRotation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/amank/OneDrive/Desktop/Learning/DSA Practice/DSA Practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LongestPalindromicSubstring">
-    <configuration name="LargestOddNumberInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.LargestOddNumberInString" />
+  <component name="RunManager" selected="Application.ClimbingStairs">
+    <configuration name="ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.ClimbingStairs" />
       <module name="DSA Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindromicSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.LongestPalindromicSubstring" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Factorial" />
       <module name="DSA Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveOutermostParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.RemoveOutermostParentheses" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Fibonacci" />
       <module name="DSA Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.ReverseWordsInString" />
+    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Power" />
       <module name="DSA Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.StringCompression" />
+    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.StringReverse" />
       <module name="DSA Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestPalindromicSubstring" />
-        <item itemvalue="Application.StringCompression" />
-        <item itemvalue="Application.ReverseWordsInString" />
-        <item itemvalue="Application.LargestOddNumberInString" />
-        <item itemvalue="Application.RemoveOutermostParentheses" />
+        <item itemvalue="Application.ClimbingStairs" />
+        <item itemvalue="Application.StringReverse" />
+        <item itemvalue="Application.Power" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
